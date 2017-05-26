@@ -6,4 +6,4 @@
 2. 新建一个index.html
 
 ## 如何预览
-点击
+点击https://lvmengqi.github.io/MyBlog.io/ 预览
